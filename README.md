@@ -1,5 +1,3 @@
-﻿# Alert-mail-sending-code
-
  # Mail Alert System
 
 This project is designed to fetch data from a ThingSpeak channel and send email alerts using Gmail's SMTP server when certain conditions are met.
